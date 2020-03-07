@@ -1,1 +1,5 @@
-
+Writing Templates
+Re-using things which are already deployed.
+Simple Webservers. Building Servers using load balancers . making services highly avaliable. 
+Failure b/w two webservers
+Automation to translate to other. 
